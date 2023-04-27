@@ -22,6 +22,6 @@ The ```Ans``` will just fill the text field with the answer from the previous op
 7. ```Ans```
 8. ```=``` *(displays 5)*
 
-All of the buttons also print the command to the ocnsole, so you can see a basic history of commands (not answers though)
+All of the buttons also print the command to the console, so you can see a basic history of commands (not answers though)
 
 If there are any questions, comments, or constructive criticism feel free to reach out :)
